@@ -1,10 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Bits and Pizzaz</string>
-    <!-- TODO: Remove or change this placeholder text -->
-    <string name="hello_blank_fragment">Hello blank fragment</string>
-    <string name="nsViewText">This is the order fragment</string>
-    <string name="radio_diavolo_text">Diavolo</string>
     <string name="radio_funghi_text">Funghi</string>
+    <string name="radio_diavolo_text">Diavolo</string>
     <string name="order_text">Wich type of pizza would you like?</string>
     <string name="choose_text">Please choose any extras:</string>
     <string name="parmesan_chip_text">Parmesan</string>
